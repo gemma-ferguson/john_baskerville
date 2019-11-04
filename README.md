@@ -1,14 +1,14 @@
 # john_baskerville
-- [version 1] (https://gemma-ferguson.github.io/john_baskerville/)
+- [version 1] (https://gemma-ferguson.github.io/john_baskerville/baskerville.html)
 * 28 October 19*
 
-- [version 2] (https://github.com/gemma-ferguson/john_baskerville/blob/gh-pages/baskerville%202.html)
+- [version 2] (https://gemma-ferguson.github.io/john_baskerville/baskerville 2.html)
 * 4 November *
 
 # history_of_type
 
-- [version 1] (https://gemma-ferguson.github.io/john_baskerville/blob/gh-pages/history.html)
+- [version 1] (https://gemma-ferguson.github.io/john_baskerville/history.html)
 * 3 November 19*
 
-- [version 2] (https://github.com/gemma-ferguson/john_baskerville/blob/gh-pages/history%202.html)
+- [version 2] (https://gemma-ferguson.github.io/john_baskerville/history 2.html)
 * 4 November 19*
