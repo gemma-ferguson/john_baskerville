@@ -3,7 +3,7 @@
 * 28 October 19*
 
 - [version 2] (https://gemma-ferguson.github.io/john_baskerville/baskerville_2.html)
-* 4 November *
+* 4 November 19*
 
 # history_of_type
 
