@@ -1,0 +1,60 @@
+/*--------- CSS RESET ---------*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+    font-family: helvetica;
+}
+
+body {
+    width: 70%;
+    max-width: 620px;
+    margin: auto; 
+    background-color: #fafafa;
+    color:#333;
+}
+
+h1, h2, h3 {
+    
+font-weight: normal;
+color: #FF7E7C;
+text-align: end;
+}
+
+p, blockquote {
+    margin-bottom:1.5em;
+    line-height: 1.4;
+}
+
+h1 {font-size: 2.827em;
+    margin-top: 2em;
+    margin-bottom: 0.1em;
+}
+
+h2 {font-size: 1.999em;
+margin: 1em 0 1em 0;}
+
+h3 {font-size: 1.414em;
+margin-bottom: 1.5em;}
+
+blockquote {
+    font-size: 1.414em;
+    hanging-punctuation: first;
+    text-indent: -0.42em;
+    color: #FF7E7C;
+}
+
+cite {
+    font-size: 0.9em;
+     color: #FF7E7C;
+}
+
+/*------------- FOOTER -------------*/
+
+footer {
+    text-align: center;
+    font-size: 0.717em;
+    padding: 2em 0 4em 0;
+}
