@@ -23,6 +23,7 @@ color: #FF7E7C;
 text-align: center;
 }
 
+p {font-family:'Montserrat', sans-serif;}
 p, blockquote {
     margin-bottom:1.5em;
     line-height: 1.4;
