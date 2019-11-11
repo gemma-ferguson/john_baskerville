@@ -13,6 +13,7 @@ body {
     margin: auto; 
     background-color: #fafafa;
     color:#333;
+    font-family: 'Libre Baskerville', serif;
 }
 
 h1, h2, h3 {
@@ -21,6 +22,8 @@ font-weight: normal;
 color: #15BFE8;
 text-align: center;
 }
+
+p{font-family: 'Open Sans', sans-serif;}
 
 p, blockquote {
     margin-bottom:1.5em;
