@@ -3,7 +3,7 @@
 
 - [Version 2](https://gemma-ferguson.github.io/john_baskerville/baskerville_2.html) ADDED BASIC CSS - 4 November 19
 
-- [Version 3](https://gemma-ferguson.github.io/john_baskerville/baskerville_3.html) ADDED GOOGLE FONTS - 11 November 19
+- [Version 3](https://gemma-ferguson.github.io/john_baskerville/baskerville_3.html) ADDED GOOGLE FONTS AND LINKS - 11 November 19
 
 # history_of_type
 
