@@ -1,4 +1,4 @@
-# john_baskerville
+# John Baskerville 
 - [Version 1](https://gemma-ferguson.github.io/john_baskerville/baskerville.html) BASIC HTML - 28 October 19
 
 - [Version 2](https://gemma-ferguson.github.io/john_baskerville/baskerville_2.html) ADDED BASIC CSS - 4 November 19
@@ -7,7 +7,7 @@
 
 - [Version 4](https://gemma-ferguson.github.io/john_baskerville/baskerville.html) BASIC CSS DEVELOPED, NAV CREATED - 18 November 19
 
-# history_of_type
+# History of Type
 
 - [Version 1](https://gemma-ferguson.github.io/john_baskerville/history.html) BASIC HTML - 3 November 19
 
