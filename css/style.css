@@ -26,7 +26,7 @@ text-align: center;
 /*------LINK STYLE------*/
 
 a{
-    color: #fafafa;
+    color: #15BFE8;
     text-decoration: none;
 }
 
@@ -91,14 +91,17 @@ nav ul li {
     margin: 20px;
 }
 
-nav a:link {
+nav a {
     color: #fafafa;
 }
 
-nav a:
+nav a:visited {
+    color: #fafafa;
+}
 
 nav a:hover {
     border-bottom: none;
+    color:black;
 }
 
 /*------------- FOOTER -------------*/
