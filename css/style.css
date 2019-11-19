@@ -19,7 +19,7 @@ body {
 h1, h2, h3 {
     
 font-weight: normal;
-color: #15BFE8;
+color: #8EC1FF;
 text-align: center;
     font-family: 'Libre Baskerville', serif;
 }
@@ -38,7 +38,7 @@ li {
 /*------LINK STYLE------*/
 
 a{
-    color: #15BFE8;
+    color: #8EC1FF;
     text-decoration: none;
 }
 
@@ -57,6 +57,7 @@ p, blockquote {
 h1 {font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
+    color: #47607F;
 }
 
 h2 {font-size: 1.999em;
@@ -84,7 +85,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #15BFE8;
+    background-color: #DAEAFF;
     padding: 1em 0;
     font-size: 0.75em;
     opacity: 75%;
@@ -105,11 +106,11 @@ nav ul li {
 }
 
 nav a {
-    color: #fafafa;
+    color: #47607F;
 }
 
 nav a:visited {
-    color: #fafafa;
+    color: #47607F;
 }
 
 nav a:hover {
