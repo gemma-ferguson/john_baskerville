@@ -16,15 +16,30 @@ body {
     font-family: 'Open Sans', sans-serif;;
 }
 
+/*----HEADING STYLING----*/
+
 h1, h2, h3 {
     
 font-weight: normal;
 color: #8EC1FF;
 text-align: center;
-    font-family: 'Libre Baskerville', serif;
+font-family: 'Libre Baskerville', serif;
 }
 
-h3 {font-style: italic;}
+h1 {font-size: 2.827em;
+    margin-top: 2em;
+    margin-bottom: 0.1em;
+    color: #47607F;
+    letter-spacing: 0.04em;
+}
+
+h2 {font-size: 1.999em;
+margin: 1em 0 1em 0;}
+
+h3 {font-size: 1.414em;
+margin-bottom: 1.5em;
+font-style: italic;
+}
 
 /*----LIST STYLING----*/
 li {
@@ -53,25 +68,11 @@ p, blockquote {
     margin-bottom:1.5em;
     line-height: 1.4;
 }
-
-h1 {font-size: 2.827em;
-    margin-top: 2em;
-    margin-bottom: 0.1em;
-    color: #47607F;
-    letter-spacing: 0.04em
-}
-
-h2 {font-size: 1.999em;
-margin: 1em 0 1em 0;}
-
-h3 {font-size: 1.414em;
-margin-bottom: 1.5em;}
-
 blockquote {
     font-size: 1.414em;
     hanging-punctuation: first;
     text-indent: -0.42em;
-    color: #008FB3;
+    color: #47607F;
 }
 
 cite {
@@ -89,7 +90,7 @@ nav {
     background-color: #DAEAFF;
     padding: 1em 0;
     font-size: 0.75em;
-    opacity: 75%;
+    opacity: 95%;
     font-family: 'Open Sans', sans-serif;
 }
 
