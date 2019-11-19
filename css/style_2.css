@@ -20,21 +20,25 @@ body {
 h1, h2, h3 {
     
 font-weight: normal;
-color: #FF7E7C;
+color: #A3B2BD;
 text-align: center;
+font-family:'Montserrat', sans-serif
 }
 
 p {font-family:'Montserrat', sans-serif;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Literata', serif;
+    
 }
+
 p, blockquote {
     margin-bottom:1.5em;
     line-height: 1.4;
 }
     
 h1 {font-size: 2.827em;
-    margin-top: 2em;
+    margin-top: 1.4em;
     margin-bottom: 0.1em;
+    color: #272E41;
 }
 
 h2 {font-size: 1.999em;
@@ -47,18 +51,20 @@ blockquote {
     font-size: 1.414em;
     hanging-punctuation: first;
     text-indent: -0.42em;
-    color: #FF7E7C;
+    color: #A3B2BD;
+    font-family:'Montserrat', sans-serif;
 }
 
 cite {
     font-size: 0.9em;
-     color: #FF7E7C;
+     color: #A3B2BD;
+    font-family:'Montserrat', sans-serif;
 }
 
 /*------LINK STYLE------*/
 
 a{
-    color: #FF7E7C;
+    color: #A3B2BD;
     text-decoration: none;
 }
 
@@ -75,12 +81,13 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #FF7E7C;
+    background-color: #E7EEF4;
     padding: 1em 0;
     font-size: 0.75em;
     opacity: 100%;
-    font-family: 'Literata', serif;
-    font-family: 'Muli', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0 0.05px 2px 0.1px;
+    opacity: 95%;
 }
 
 /*------UL-NAV------*/
@@ -97,11 +104,11 @@ nav ul li {
 }
 
 nav a {
-    color: #fafafa;
+    color: #272E41;
 }
 
 nav a:visited {
-    color: #fafafa;
+    color: #272E41;
 }
 
 nav a:hover {
