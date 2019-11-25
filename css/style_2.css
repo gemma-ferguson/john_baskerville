@@ -89,6 +89,38 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
+/*-----TABLE STYLING----*/
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th{
+    color:#fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #47607F;
+}
+
+th, td{
+    padding: 0.6em;
+}
+
+table, td{
+    background: #DAEAFF;
+    border: 1px solid #fafafa;
+}
+    
 /*-----NAVIGATION----*/
 
 nav {
