@@ -68,17 +68,25 @@ p, blockquote {
     margin-bottom:1.5em;
     line-height: 1.4;
 }
+
 blockquote {
     font-size: 1.414em;
     hanging-punctuation: first;
     text-indent: -0.42em;
-    color: #8EC1FF;
+    color: #47607F;
 }
 
 cite {
     font-size: 0.9em;
 }
 
+/*-----IMAGE STYLING----*/
+
+img{
+    display: block;
+    margin: 3em auto 3em 0;
+    max-width: 100%;
+}
 /*-----TABLE STYLING----*/
 table{
     margin: auto;
