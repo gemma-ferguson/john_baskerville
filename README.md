@@ -5,7 +5,9 @@
 
 - [Version 3](https://gemma-ferguson.github.io/john_baskerville/baskerville_3.html) ADDED GOOGLE FONTS AND LINKS - 11 November 19
 
-- [Version 4](https://gemma-ferguson.github.io/john_baskerville/baskerville.html) BASIC CSS DEVELOPED, NAV CREATED, NEW LIST ADDED - 18 November 19
+- [Version 4](https://gemma-ferguson.github.io/john_baskerville/baskerville_4.html) BASIC CSS DEVELOPED, NAV CREATED, NEW LIST ADDED - 18 November 19
+
+- [Version 4](https://gemma-ferguson.github.io/john_baskerville/baskerville_5.html) TABLE AND IMAGES ADDED - 25 November 19
 
 # History of Type
 
@@ -16,3 +18,5 @@
 - [Version 3](https://gemma-ferguson.github.io/john_baskerville/history_3.html) ADDED GOOGLE FONTS AND LINKS - 11 November 19
 
 - [Version 4](https://gemma-ferguson.github.io/john_baskerville/history_4.html) BASIC CSS DEVELOPED, NAV CREATED - 18 November 19
+
+- [Version 5](https://gemma-ferguson.github.io/john_baskerville/history_5.html) TABLE AND IMAGES ADDED - 25 November 19
