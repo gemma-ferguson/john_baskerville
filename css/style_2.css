@@ -57,7 +57,6 @@ li {
     padding: 0.3em;
     text-align: left;
     font-family: 'Literata', serif;
-    text-indent: -3.20em;
     margin: 0.33em 0.5em 0.5em 1.5em;
 }
 
@@ -109,7 +108,7 @@ th{
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: #47607F;
+    background: #272E41;
 }
 
 th, td{
@@ -117,8 +116,9 @@ th, td{
 }
 
 table, td{
-    background: #DAEAFF;
+    background: #A3B2BD;
     border: 1px solid #fafafa;
+    color: #fafafa;
 }
     
 /*-----NAVIGATION----*/
