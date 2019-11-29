@@ -76,6 +76,16 @@ cite {
     font-family:'Montserrat', sans-serif;
 }
 
+/*-----IMAGE STYLING----*/
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2em;
+    max-width: 100%; 
+}
+
 /*------LINK STYLING------*/
 
 a{
