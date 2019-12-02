@@ -9,7 +9,7 @@
 
 - [Version 5](https://gemma-ferguson.github.io/john_baskerville/baskerville_5.html) TABLE AND IMAGES ADDED - 25 November 19
 
-- [Version 6](https://gemma-ferguson.github.io/john_baskerville/baskerville_6.html) COLUMNS AND FORMATTING ADDED - 2 December 19
+- [Version 6](https://gemma-ferguson.github.io/john_baskerville/baskerville_6.html) COLUMNS, FORMATTING AND ICONS ADDED - 2 December 19
 
 # History of Type
 
@@ -23,4 +23,4 @@
 
 - [Version 5](https://gemma-ferguson.github.io/john_baskerville/history_5.html) TABLE AND IMAGES ADDED - 25 November 19
 
-- [Version 6](https://gemma-ferguson.github.io/john_baskerville/history_6.html) COLUMNS AND FORMATTING ADDED - 2 December 19
+- [Version 6](https://gemma-ferguson.github.io/john_baskerville/history_6.html) ICONS ADDDED - 2 December 19
