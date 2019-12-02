@@ -16,6 +16,23 @@ body {
     font-family: 'Open Sans', sans-serif;;
 }
 
+article{
+    display:flex
+}
+
+.main{
+    flex: 4;
+    padding-right: 1em;
+}
+
+aside{
+    flex: 1;
+    font-size: 0.75em;
+    font-style: italic;
+    border-left: 1px solid #333;
+    padding-left: 1em; 
+}
+
 /*----HEADING STYLING----*/
 
 h1, h2, h3 {
