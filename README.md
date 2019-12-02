@@ -9,6 +9,8 @@
 
 - [Version 5](https://gemma-ferguson.github.io/john_baskerville/baskerville_5.html) TABLE AND IMAGES ADDED - 25 November 19
 
+- [Version 6](https://gemma-ferguson.github.io/john_baskerville/baskerville_6.html) COLUMNS AND FORMATTING ADDED - 2 December 19
+
 # History of Type
 
 - [Version 1](https://gemma-ferguson.github.io/john_baskerville/history.html) BASIC HTML - 3 November 19
@@ -20,3 +22,5 @@
 - [Version 4](https://gemma-ferguson.github.io/john_baskerville/history_4.html) BASIC CSS DEVELOPED, NAV CREATED - 18 November 19
 
 - [Version 5](https://gemma-ferguson.github.io/john_baskerville/history_5.html) TABLE AND IMAGES ADDED - 25 November 19
+
+- [Version 6](https://gemma-ferguson.github.io/john_baskerville/history_6.html) COLUMNS AND FORMATTING ADDED - 2 December 19
